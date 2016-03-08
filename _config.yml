@@ -1,0 +1,28 @@
+name: threeway
+favicon: null
+layout_spectrum: 0.5782462896313518
+typography_spectrum: 0.040725282626226544
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.06327698612585664
+  lightness: 0.01505786832422018
+  saturation: 0.9379681004211307
+  rhythmicContrast: 0.30640181968919933
+purpose: []
